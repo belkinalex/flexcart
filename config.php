@@ -1,6 +1,6 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://flexcart.herokuapp.com/');
+define('HTTP_SERVER', 'https://flexcart.herokuapp.com/');
 
 
 // HTTPS

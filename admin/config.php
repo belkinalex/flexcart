@@ -1,8 +1,8 @@
 <?php
 
 // HTTP
-define('HTTP_SERVER', 'http://flexcart.herokuapp.com/admin/');
-define('HTTP_CATALOG', 'http://flexcart.herokuapp.com/');
+define('HTTP_SERVER', 'https://flexcart.herokuapp.com/admin/');
+define('HTTP_CATALOG', 'https://flexcart.herokuapp.com/');
 
 // HTTPS
 define('HTTPS_SERVER', 'https://flexcart.herokuapp.com/admin/');
