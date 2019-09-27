@@ -950,7 +950,13 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": ">=7.1.0"
+        "php": ">=7.1.0",
+        "ext-gd": "*",
+        "ext-curl": "*",
+        "ext-mcrypt": "*",
+        "ext-zlib": "*",
+        "ext-zip": "*",
+        "ext-soap": "*"
     },
     "platform-dev": []
 }
